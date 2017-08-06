@@ -1,0 +1,8 @@
+#Visual Studio folders
+.vs
+Debug
+Release
+
+#Visual Studio files
+*.VC.db
+*.VC.opendb

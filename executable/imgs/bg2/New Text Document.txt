@@ -1,0 +1,8 @@
+0 = blank
+1 = platform
+2 = grill
+3-5 = top
+6 = left
+7,8,9 = grill
+10 = right
+11-13 = bottom
